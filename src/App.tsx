@@ -39,7 +39,7 @@ setupIonicReact();
 const App: React.FC = () => (
     <IonApp>
         <IonReactRouter>
-            My name is hero
+            My name is hero no. 1 hbhdf
             <IonTabs>
                 <IonRouterOutlet>
                     <Route exact path="/tab1">
